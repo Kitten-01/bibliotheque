@@ -1,6 +1,6 @@
 package com.example.bibliotheque;
 
-import com.bibliotheque.view.BibliothequeUI;
+import com.example.bibliotheque.view.BibliothequeUI;
 import javafx.application.Application;
 
 public class Main {

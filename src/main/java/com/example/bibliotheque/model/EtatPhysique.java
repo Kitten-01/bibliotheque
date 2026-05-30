@@ -5,5 +5,4 @@ public enum EtatPhysique {
     BON,
     USE,
     A_REPARER
-    
 }
